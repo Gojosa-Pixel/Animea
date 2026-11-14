@@ -17,5 +17,5 @@ GROUP_ID = "@animeasssssdd"  # GC username
  # Replace with your Group ID
 OWNER_ID = 8601436739
 # Minimum and Maximum delay between messages (in seconds)
-MIN_DELAY = 1
-MAX_DELAY = 2
+MIN_DELAY = 0.5
+MAX_DELAY = 1
